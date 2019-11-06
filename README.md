@@ -1,2 +1,2 @@
 # Giphy-API
-Search for a gif 
+Click the buttons to show gifs based on them.
